@@ -45,16 +45,6 @@ This dataset, **VRPE_5000.csv**, supports research on enhancing learning outcome
 - Evaluating effectiveness of VR sessions across demographic groups.
 - Building optimization algorithms for personalizing VR learning modules.
 
-## 📎 Citation
-
-If you use this dataset in your work, please cite:
-
-```
-Author(s): Anam Tahir et al.  
-Title: Optimization Framework for Enhanced Learning in VR-Based Physical Education  
-Year: 2025  
-```
-
 ## 📝 License
 
 This dataset is available for research and educational use only. For commercial or other inquiries, please contact the dataset provider.
